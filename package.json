@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmin": "github:stdlib-js/stats-base-ndarray-dmin#main",
     "@stdlib/stats-base-ndarray-min": "github:stdlib-js/stats-base-ndarray-min#main",
     "@stdlib/stats-base-ndarray-smin": "github:stdlib-js/stats-base-ndarray-smin#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
