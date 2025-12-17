@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-06)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`29d229e`](https://github.com/stdlib-js/stdlib/commit/29d229e63a7c9175502c751be31413ace522531f) - **docs:** update return annotations to use ndarray instance notation for `stats/min` [(#9105)](https://github.com/stdlib-js/stdlib/pull/9105) _(by Pratik)_
 -   [`8cf190a`](https://github.com/stdlib-js/stdlib/commit/8cf190af409092c48ce33af1f5c8067393f17656) - **docs:** update examples in `stats/min` [(#8825)](https://github.com/stdlib-js/stdlib/pull/8825) _(by Sachin Pangal)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
@@ -39,11 +40,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
 -   Philipp Burckhardt
+-   Pratik
 -   Sachin Pangal
 
 </section>
