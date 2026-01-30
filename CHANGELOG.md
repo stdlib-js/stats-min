@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2026-01-30)
 
 <section class="features">
 
@@ -22,6 +22,9 @@
 
 <details>
 
+-   [`50af83b`](https://github.com/stdlib-js/stdlib/commit/50af83bcaa184b672be143271ee32f0b9fba06e1) - **docs:** update copy _(by Athan Reines)_
+-   [`4b1efc6`](https://github.com/stdlib-js/stdlib/commit/4b1efc6552af03e1b7d260f6f10e7e042e7d68f6) - **docs:** update dtype type _(by Athan Reines)_
+-   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
 -   [`29d229e`](https://github.com/stdlib-js/stdlib/commit/29d229e63a7c9175502c751be31413ace522531f) - **docs:** update return annotations to use ndarray instance notation for `stats/min` [(#9105)](https://github.com/stdlib-js/stdlib/pull/9105) _(by Pratik)_
 -   [`8cf190a`](https://github.com/stdlib-js/stdlib/commit/8cf190af409092c48ce33af1f5c8067393f17656) - **docs:** update examples in `stats/min` [(#8825)](https://github.com/stdlib-js/stdlib/pull/8825) _(by Sachin Pangal)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
